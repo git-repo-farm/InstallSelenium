@@ -2,4 +2,4 @@
 
 
 
-Steps on how to install Selenium via ECLIPSE IDE.
+Steps on how to install Selenium jars, and connect with EClipse IDE
